@@ -1,0 +1,4 @@
+[submodule "lib/fltk"]
+	path = lib/fltk
+	url = https://github.com/ManoloFLTK/fltk.git
+	branch = wayland
