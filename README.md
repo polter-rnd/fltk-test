@@ -1,7 +1,7 @@
 ## Build instructions
 
 ```
-git clone https://github.com/polter-rnd/fltk-test.git
+git clone --recursive https://github.com/polter-rnd/fltk-test.git
 cd fltk-test
 mkdir -p build
 cd build
